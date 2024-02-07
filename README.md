@@ -1,6 +1,6 @@
 ### 💻 Projeto
 
-Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API.
+Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API. Trata-se de um app de notas com o diferencial de utilizar o microfone para gravar as notas que serão automaticamente convertidas para texto.
 
 ### 🚀 Tecnologias
 
